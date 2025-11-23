@@ -6,8 +6,10 @@ I’m currently revamping it to better reflect my aesthetic, personality, and gr
 <br><br>🔐 What I’m Learning<br><br>Cybersecurity fundamentals<br><br>Nmap, Wireshark, Kali Linux, Metasploit<br><br>Secure coding & vulnerability analysis<br><br>General system internals and network security<br><br>🎯 What I’m Looking For<br><br>Cybersecurity-focused internship opportunities<br><br>Remote freelance gigs<br><br>Mentorship or collaboration on security-focused projects<br><br>⚡ Fun Facts<br><br>I love anime and nostalgia content<br><br>I’m an IT guy by default - I genuinely enjoy tinkering with hardware and software<br><br>Curious, experimental, and always exploring new tech tools or framework.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](sidney-mwanzia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kmwanziasid@gmail.com) 
+## 🌐 Socials:<p align="left">
+<a href="https://linkedin.com/in/sidney-mwanzia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidney-mwanzia" height="30" width="40" /></a>
+</p>
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kmwanziasid@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
