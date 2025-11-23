@@ -8,7 +8,10 @@ I’m currently revamping it to better reflect my aesthetic, personality, and gr
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://linkedin.com/in/sidney-mwanzia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidney-mwanzia" height="30" width="40" /></a>  <a href="mailto:kmwanziasid@gmail.com" target="blank" align="center" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sidney-mwanzia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidney-mwanzia" height="30" width="40" /></a>  
+</p>
+<p align="left">
+<a href="mailto:kmwanziasid@gmail.com" target="blank" align="center" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="30" width="40" /></a>
 </p>
 
 
