@@ -7,7 +7,7 @@ I’m currently revamping it to better reflect my aesthetic, personality, and gr
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sidney-mwanzia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kmwanziasid@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](sidney-mwanzia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kmwanziasid@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
