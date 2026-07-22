@@ -1,115 +1,80 @@
-# 💫 About Me
+# Sidney Mwanzia
 
-Hi, I'm Sidney - a final-year B.I.T. student (Cybersecurity Major) based in Nairobi, Kenya. I build secure web applications, conduct authorized vulnerability assessments, and explore how systems work - from network packets to AI-integrated frontends.
+Cybersecurity & Systems-focused Full-Stack Developer | Nairobi, Kenya
 
-- 🔭 Currently working on: Healthcare systems (React Native + Expo), portfolio revamp, security homelab
-- 🌱 Learning: HCIA-Datacom, CompTIA Security+, advanced network security
-- 👯 Looking for: Cybersecurity internships, remote IT roles, freelance development gigs
-- 💬 Ask me about: Django, React, Supabase, vulnerability assessment, secure coding
-- ⚡ Fun fact: I discovered my first SQL injection on Bugcrowd before I finished my networking course
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
----
+## About
 
-## 🌐 Connect
+I build full-stack web and mobile applications and I'm actively moving into cybersecurity and systems administration — currently working toward HCIA-Datacom and CompTIA certifications, and running a home lab (Proxmox, pfSense, segmented VLANs, Kali) to practice network defense and offensive-security fundamentals outside of coursework.
 
-<p align="left">
-  <a href="https://linkedin.com/in/sidney-mwanzia" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidney-mwanzia" height="30" width="40" />
-  </a> <br> 
-  <a href="mailto:kmwanziasid@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email" height="30" />
-  </a> <br>
-  <a href="https://sidney-bsd-portfolio-theme.vercel.app" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="portfolio" height="30" />
-  </a>
-</p>
+I've spent the last two years shipping production features for a healthcare platform (Django/React/React Native) and freelance e-commerce clients (WooCommerce), while doing authorized web penetration testing (XSS and misconfiguration checks) as part of a prior role. I've also submitted findings through Bugcrowd, including a confirmed SQL injection.
 
----
+## Currently
 
-## 💻 Tech Stack (Verified in Repos)
+- Part-time remote full-stack developer, healthcare platform (ongoing)
+- Actively seeking a cybersecurity, systems administration, or full-stack internship/role
+- Working through HCIA-Datacom and CompTIA coursework
+- Building a home lab for hands-on network security practice
 
-These are the technologies actually used in my pinned repositories:
+## Featured Projects
 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+### [eld_log](https://github.com/Sidsloth-k/eld_log) — Electronic Logging Device Management System
 
-**Frameworks & Libraries:**
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=plastic&logo=svelte&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
+**Why:** Commercial trucking operations need to track driver hours, trips, and compliance logs accurately, and small fleets often can't afford enterprise ELD software.
 
-**Databases & Backend:**
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
+**What it solves:** Gives fleet managers, drivers, and admins a shared system to create driver logs, manage trips, and generate signed PDF compliance reports, with role-based access so drivers only see their own data.
 
-**Tools & Platforms:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)
+**How:** Django REST Framework backend (JWT auth, role-based permissions, multi-database support) paired with a React frontend; PDF reports generated server-side with ReportLab.
 
-**Security:**
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=plastic&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=plastic&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=plastic&logo=nmap&logoColor=white)
+Live: [eld-log.vercel.app](https://eld-log.vercel.app)
 
 ---
 
-## 🔐 Featured Projects
+### [secure-share](https://github.com/Sidsloth-k/secure-share) — Threshold-Encrypted File Sharing CLI
 
-### [eld_log](https://github.com/Sidsloth-k/eld_log) - ELD Logging System
-A full-stack Electronic Logging Device system for tracking driver hours-of-service.
-- **Stack:** Django REST Framework, React, PostgreSQL
-- **Features:** JWT authentication, PDF report generation, RESTful API, production deployment
-- **Live:** [eld-log.vercel.app](https://eld-log.vercel.app)
+**Why:** Teams sharing sensitive files often rely on a single admin or shared password, which means one compromised account can expose everything.
 
-### [myportfolio](https://github.com/Sidsloth-k/myportfolio) - Portfolio with Admin Dashboard
-A production portfolio site with dynamic content management and admin controls.
-- **Stack:** TypeScript, React, Supabase, Tailwind CSS
-- **Features:** Admin dashboard, Supabase backend integration, responsive design
-- **Commits:** 50+ demonstrating full-stack development workflow
+**What it solves:** Lets an organization split a file's decryption key across multiple members, so no single person can decrypt a shared file alone — a minimum threshold of members must cooperate.
 
-### [secure-share](https://github.com/Sidsloth-k/secure-share) - Secure File Sharing CLI
-A command-line tool for distributed secure secret storage using threshold cryptography.
-- **Stack:** Python, Supabase
-- **Features:** Shamir's Secret Sharing implementation, secure key distribution
-- **Context:** University project + personal exploration into applied cryptography
+**How:** Python CLI, Supabase for identity/metadata/audit logging, client-side symmetric encryption with threshold secret-sharing before any key material leaves a user's machine.
 
 ---
 
-## 🛡️ Security Research
+### [myportfolio](https://github.com/Sidsloth-k/myportfolio) — Personal Portfolio + Admin Dashboard
 
-- **Bugcrowd:** Discovered and responsibly disclosed SQL injection vulnerability on authorized web application
-- **Home Lab:** Building network segmentation and SIEM monitoring environment (Kali Linux, Wireshark, Nmap)
-- **CTFs & Labs:** Regular participation in online security challenges and capture-the-flag competitions
+**Why:** Wanted a portfolio that isn't just a static page — one I can update project data, skills, and case studies on through my own backend instead of hardcoding HTML.
 
----
+**What it solves:** A public-facing portfolio site backed by a real data layer, with an in-progress admin panel to manage content without redeploying.
 
-## 📜 Certifications (In Progress)
+**How:** TypeScript/React frontend, Supabase (PostgreSQL) backend for dynamic content.
 
-- HCIA-Datacom (Huawei)
-- CompTIA Security+
+Live: [sidney-bsd-portfolio-theme.vercel.app](https://sidney-bsd-portfolio-theme.vercel.app) — public-facing site is live; admin dashboard is still in progress.
 
----
-## 📊 GitHub Stats
+## Learning / In Progress
 
+- HCIA-Datacom certification
+- CompTIA (in progress)
+- Home lab: Proxmox VE, pfSense, segmented VLANs, Kali Linux
+- Nmap, Wireshark, Metasploit, vulnerability analysis
 
+## Connect
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidsloth-k&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
-
-
+[LinkedIn](https://linkedin.com/in/sidney-mwanzia) · [Email](mailto:kmwanziasid@gmail.com)
