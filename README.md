@@ -104,13 +104,22 @@ A command-line tool for distributed secure secret storage using threshold crypto
 - CompTIA Security+
 
 ---
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Sidsloth-k&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sidsloth-k&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Sidsloth-k&theme=gruvbox_light&hide_border=false)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidsloth-k&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidsloth-k&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidsloth-k&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
+</p>
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Sidsloth-k&theme=discord_old_blurple&no-frame=true&no-bg=true&margin-w=4)
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sidsloth-k&theme=flat&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</p>
