@@ -12,17 +12,17 @@ Hi, I'm Sidney - a final-year B.I.T. student (Cybersecurity Major) based in Nair
 
 ## 🌐 Connect
 
-&lt;p align="left"&gt;
-  &lt;a href="https://linkedin.com/in/sidney-mwanzia" target="blank"&gt;
-    &lt;img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidney-mwanzia" height="30" width="40" /&gt;
-  &lt;/a&gt;
-  &lt;a href="mailto:kmwanziasid@gmail.com" target="blank"&gt;
-    &lt;img align="center" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email" height="30" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://sidney-bsd-portfolio-theme.vercel.app" target="blank"&gt;
-    &lt;img align="center" src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="portfolio" height="30" /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<p align="left">
+  <a href="https://linkedin.com/in/sidney-mwanzia" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidney-mwanzia" height="30" width="40" />
+  </a>
+  <a href="mailto:kmwanziasid@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email" height="30" />
+  </a>
+  <a href="https://sidney-bsd-portfolio-theme.vercel.app" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="portfolio" height="30" />
+  </a>
+</p>
 
 ---
 
