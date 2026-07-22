@@ -105,8 +105,6 @@ A command-line tool for distributed secure secret storage using threshold crypto
 
 ---
 
-## 📊 GitHub Stats
-
 ![](https://github-readme-stats.vercel.app/api?username=Sidsloth-k&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=true)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Sidsloth-k&theme=gruvbox_light&hide_border=false)
