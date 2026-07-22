@@ -106,20 +106,10 @@ A command-line tool for distributed secure secret storage using threshold crypto
 ---
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sidsloth-k&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
+
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidsloth-k&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sidsloth-k&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
-</p>
 
-## 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sidsloth-k&theme=flat&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
